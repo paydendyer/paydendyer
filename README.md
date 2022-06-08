@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Payden</h1>
-<h3 align="center">A creative frontend developer</h3>
+<h3 align="center">A self-taught frontend developer</h3>
 
 <p align="left"> <a href="https://twitter.com/paydendev" target="blank"><img src="https://img.shields.io/twitter/follow/paydendev?logo=twitter&style=for-the-badge" alt="paydendev" /></a> </p>
 
