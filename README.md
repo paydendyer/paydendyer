@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/paydendev" target="blank"><img src="https://img.shields.io/twitter/follow/paydendev?logo=twitter&style=for-the-badge" alt="paydendev" /></a> </p>
 
-- 🔭 I’m currently working on [Task Dashboard](https://github.com/paydendyer/task-dashboard) and [100 Days of Code Challenge](https://github.com/paydendyer/100-days-of-code)
+- 🔭 I’m currently working on [Smart Brain](https://github.com/paydendyer/smartbrain) and [100 Days of Code Challenge](https://github.com/paydendyer/100-days-of-code)
 
-- 🌱 I’m currently learning **Tailwind CSS, Jest**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [paydendyer.com](paydendyer.com)
 
